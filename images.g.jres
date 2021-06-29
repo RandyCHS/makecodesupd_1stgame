@@ -1,0 +1,12 @@
+{
+    "r*2vaIdp6vq)TPa+WG#k": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8PAAAA8FVVVfUAAABfVVVVVQ8A8FX1VfVV9QDwVVVVVV/1APBVVVVV9fUA8FVVVV/19QDwVVVVVfX1APBVVVVVX/UA8FX1VfVV9QAAX1VVVVUPAADwVVVV9QAAAAD///8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "im_a_terrible_artist_16x16"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
